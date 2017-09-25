@@ -1,0 +1,12 @@
+Package: SDSFoundations
+Type: Package
+Title: Collection of functions and data for The University of Texas
+        Department of Statistics MOOC: Foundations of Data Analysis.
+LazyData: yes
+Version: 1.4
+Date: 2016-03-14
+Author: Michael J. Mahometa & Sally K. Amen
+Maintainer: Michael J. Mahometa <michael.mahometa@ssc.utexas.edu>
+Description: These functions do several helper things. There are functions to fit single models (linear, exponential, and logistic growth), with minimal output. There are functions to fit all three models to examine overall model fit. Included in the package are various data files for use in some labs.
+License: CC BY-NC-ND 3.0 US
+Built: R 3.2.3; ; 2016-03-16 21:15:10 UTC; unix
